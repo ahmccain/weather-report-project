@@ -1,0 +1,9 @@
+.gradle
+.idea
+gradle
+gradlew
+gradlew.bat
+settings.gradle
+weather.db
+build
+README.txt
